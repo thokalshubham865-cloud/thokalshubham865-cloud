@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **thokalshubham865@gmail.com**😊😊
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhamthokal_02) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Shubhu732) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thokalshubham865@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhamthokal_02) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Shubhu732) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thokalshubham865@gmail.com) 
 
 <!-- Snake Game Repo View -->
 

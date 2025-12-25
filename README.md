@@ -1,14 +1,9 @@
-## Hi there 👋
-
-<!--
-**thokalshubham865-cloud/thokalshubham865-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 # 💫 Hi 👋,Shubham Thokal
 ** || Java Full Stack Developer || **
 
 Email Me 👉 ✉️ **thokalshubham865@gmail.com**😊😊
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
